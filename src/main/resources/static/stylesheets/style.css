@@ -1,5 +1,6 @@
 .main-page{
     width:auto;
+    min-width: 1280px;
     padding-left: 200px;
     padding-right: 200px;
 }
