@@ -1,9 +1,8 @@
 .main-page{
-    max-width: 1140px;
+    width:auto;
     padding-left: 200px;
     padding-right: 200px;
 }
-
 .top-box-index{
 
     height: 40px;
